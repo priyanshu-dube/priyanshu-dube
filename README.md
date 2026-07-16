@@ -6,7 +6,7 @@ Java Backend Developer • Spring Boot • Building RoleRadar 🚀
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;Spring+Boot+Developer;Building+RoleRadar;Open+to+Work+🚀;Future+Software+Engineer" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Java+Developer;Building+RoleRadar;Open+to+Work+🚀;Software+Developer" alt="Typing SVG"/>
   </a>
 </p>
 
