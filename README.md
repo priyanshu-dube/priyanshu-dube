@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Priyanshu Dubey</h1>
 
 <h3 align="center">
@@ -7,7 +6,7 @@ Java Backend Developer • Spring Boot • PostgreSQL • Building RoleRadar �
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Backend+Developer;Java+%7C+Spring+Boot;Building+RoleRadar;Learning+System+Design;Open+to+Backend+Developer+Roles" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;Spring+Boot+%7C+PostgreSQL;Building+RoleRadar;Learning+System+Design;Open+to+Backend+Developer+Roles" alt="Typing SVG"/>
   </a>
 </p>
 
@@ -17,8 +16,8 @@ Java Backend Developer • Spring Boot • PostgreSQL • Building RoleRadar �
 
 - 🎓 **BCA Graduate (2026)**
 - 💼 **Java Backend Developer**
-- 🚀 Currently building **RoleRadar** using **Java, Spring Boot & PostgreSQL**
-- 🌱 Currently learning **Spring Security, Docker, Redis & System Design**
+- 🚀 Building **RoleRadar**, an AI-powered career platform using **Java, Spring Boot & PostgreSQL**
+- 🌱 Currently learning **Spring Security, JWT Authentication, Docker, Redis & System Design**
 - 🎯 Open to **Backend Developer / Software Engineer** opportunities
 - 📫 **Email:** **priyanshurajeshdubey@gmail.com**
 - ⚡ *Building scalable backend systems one commit at a time.*
@@ -49,31 +48,38 @@ Java Backend Developer • Spring Boot • PostgreSQL • Building RoleRadar �
 
 ---
 
-## 🚀 Currently Building
+# 🚀 Featured Project
 
-### 🎯 RoleRadar
+## 🎯 RoleRadar
 
-An AI-powered job platform built with **Java**, **Spring Boot**, and **PostgreSQL**.
+**Enterprise-inspired backend platform built with Java, Spring Boot & PostgreSQL.**
 
-🚧 **Status:** In Active Development
+RoleRadar is an AI-powered career platform backend focused on demonstrating modern backend engineering practices through clean architecture, secure REST APIs, DTOs, validation, exception handling, and scalable application design.
 
-Current Progress:
-- ✅ User Registration
-- ✅ REST APIs
+### 🚧 Current Progress
+
+- ✅ Complete User CRUD APIs
+- ✅ Layered Architecture
+- ✅ DTO Pattern
+- ✅ Entity ↔ DTO Mapping
+- ✅ Bean Validation
+- ✅ Global Exception Handling
+- ✅ Custom Exceptions
+- ✅ Spring Data JPA + Hibernate
 - ✅ PostgreSQL Integration
-- 🔄 Spring Security & JWT
+- 🔄 Spring Security & JWT Authentication
 - ⏳ Resume Management
-- ⏳ AI Job Matching
+- ⏳ AI Skill Matching Engine
 
 <p>
 
-<img src="https://img.shields.io/badge/Java-17-orange"/>
+<img src="https://img.shields.io/badge/Java-21-orange"/>
 
-<img src="https://img.shields.io/badge/Spring_Boot-3.x-6DB33F"/>
+<img src="https://img.shields.io/badge/Spring_Boot-4.x-6DB33F"/>
 
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1"/>
 
-<img src="https://img.shields.io/badge/JWT-Security-red"/>
+<img src="https://img.shields.io/badge/JWT-In_Progress-red"/>
 
 </p>
 
@@ -83,17 +89,20 @@ Current Progress:
 
 ---
 
-## 🛠 Tech Stack
+# 🛠 Tech Stack
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=java,spring,hibernate,postgres,docker,git,github,linux,maven,idea,postman"/>
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate,postgres,maven,docker,git,github,linux,idea,postman"/>
 
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+
+---
+
+# 🔥 GitHub Streak
 
 <p align="center">
 
@@ -103,7 +112,7 @@ Current Progress:
 
 ---
 
-## 📈 Contribution Graph
+# 📈 Contribution Graph
 
 <p align="center">
 
@@ -113,7 +122,7 @@ Current Progress:
 
 ---
 
-## 🐍 Contribution Snake
+# 🐍 Contribution Snake
 
 <p align="center">
 
@@ -123,25 +132,42 @@ Current Progress:
 
 ---
 
-## 📚 Currently Learning
+# 📚 Currently Learning
 
-- Spring Security
-- JWT Authentication
-- Docker
-- Redis
-- System Design
-- Microservices
+- 🔐 Spring Security & JWT Authentication
+- 🐳 Docker
+- ⚡ Redis
+- 🏗️ System Design
+- ☁️ Microservices
+- 📡 Apache Kafka
 
 ---
 
-## 🎯 2026 Goals
+# 🎯 2026 Goals
 
 - ✅ Build production-ready backend projects
-- 🚀 Deploy a full-stack application
-- 📦 Learn Docker & Redis
+- 🚀 Complete RoleRadar MVP
+- 🔐 Master Spring Security & JWT
+- 🐳 Learn Docker & Redis
 - 🏗️ Improve System Design
 - 💼 Land a Backend Developer role
 - 🌍 Contribute to Open Source
+
+---
+
+# 💻 Backend Engineering Focus
+
+- RESTful API Development
+- Layered Architecture
+- DTO Pattern
+- Spring Data JPA
+- Hibernate ORM
+- Bean Validation
+- Exception Handling
+- PostgreSQL
+- Clean Code
+- Dependency Injection
+- Git & GitHub
 
 ---
 
@@ -158,6 +184,5 @@ Current Progress:
 </h3>
 
 <p align="center">
-If you like my work, consider ⭐ starring my repositories and connecting with me.
+I'm passionate about building scalable backend systems and continuously improving my engineering skills. If you like my work, consider ⭐ starring my repositories or connecting with me on LinkedIn.
 </p>
-```
